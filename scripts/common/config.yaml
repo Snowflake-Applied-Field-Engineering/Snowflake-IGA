@@ -1,0 +1,15 @@
+auth_type: "password"  # Change to "oauth" or "keypair" as needed
+
+snowflake:
+  user: "your_user"
+  password: "your_password"  # Remove if using OAuth or Key Pair
+  account: "your_snowflake_account"  # Example: xy12345.us-east-1
+  warehouse: "COMPUTE_WH"
+  database: "MY_DATABASE"
+  schema: "PUBLIC"
+
+  # OAuth settings (only needed for OAuth authentication)
+  oauth_token: "your_oauth_token"
+
+  # Key Pair settings (only needed for Key Pair authentication)
+  private_key: "path_to_private_key.p8"
