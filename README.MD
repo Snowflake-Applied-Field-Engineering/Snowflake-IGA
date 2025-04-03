@@ -151,7 +151,7 @@ The Terraform implementation is organized into three core modules:
 
 ### 🔹 **1. Clone the Repository**
 ```bash
-git clone https://github.com/bbhorrigan/snowIGA.git
+git clone https://github.com/Snowflake-Applied-Field-Engineering/Snowflake-IGA
 cd snowIGA
 ```
 
