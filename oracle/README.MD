@@ -12,10 +12,10 @@ integration_script.py
 
 
 Install the required Python packages:
-bashCopypip install requests pyjwt cryptography
+pip install requests pyjwt cryptography
 
 Run the integration script with your specific details:
-copy integration_script.py \
+integration_script.py \
     --idcs-url https://your-idcs-instance.identity.oraclecloud.com \
     --idcs-client-id your-client-id \
     --idcs-client-secret your-client-secret \
