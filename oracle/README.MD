@@ -2,7 +2,7 @@ Snowflake SCIM Integration Module - Handles communication with Snowflake's SCIM 
 Oracle IDCS SCIM Client - Manages communication with Oracle Identity Cloud Service and creates the SCIM application.
 Integration Script - Ties everything together to automate the setup process.
 
-How to Use This Solution
+How to
 
 Save all three Python scripts to your local system:
 
